@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SEO Analyzer</title>
+    <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+    <div class="container">
+        <h1>SEO Keyword Analyzer</h1>
+        <div class="input-section">
+            <input type="text" id="keywordInput" placeholder="Enter keyword to analyze">
+            <button id="analyzeBtn">Search</button>
+        </div>
+
+        <div id="loading" class="hidden">
+            Loading...
+            <div class="spinner"></div>
+        </div>
+        <div id="errorMessage" class="error hidden"></div>
+
+        <div id="results" class="hidden">
+            <div id="mainKeywordResult"></div>
+
+            <div id="recommendedKeywordsSection" class="hidden">
+                <button id="toggleRecommendedBtn">Show Recommended Keywords</button>
+                <div id="recommendedList" class="hidden">
+                    </div>
+            </div>
+        </div>
+    </div>
+    <script src="popup.js"></script>
+</body>
+</html>

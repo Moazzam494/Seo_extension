@@ -1,0 +1,3018 @@
+{
+  "ai tools": {
+    "keyword": "ai tools",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 62,
+    "cpc": 9.5,
+    "trend": "Stable",
+    "difficulty": 57,
+    "potential_traffic": 9000,
+    "parent_topic": "ai",
+    "category": "technology",
+    "opportunity_score": 88,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "ai tools free": {
+    "keyword": "ai tools free",
+    "search_volume": 22950,
+    "competition": "High",
+    "competition_index": 46,
+    "cpc": 4.5,
+    "trend": "Stable",
+    "difficulty": 46,
+    "potential_traffic": 4590,
+    "parent_topic": "ai",
+    "category": "technology",
+    "opportunity_score": 76,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "ai tools directory": {
+    "keyword": "ai tools directory",
+    "search_volume": 22950,
+    "competition": "Low",
+    "competition_index": 37,
+    "cpc": 0.8,
+    "trend": "Stable",
+    "difficulty": 39,
+    "potential_traffic": 4590,
+    "parent_topic": "ai",
+    "category": "technology",
+    "opportunity_score": 83,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "ai tools like chatgpt": {
+    "keyword": "ai tools like chatgpt",
+    "search_volume": 15599,
+    "competition": "High",
+    "competition_index": 51,
+    "cpc": 2.7,
+    "trend": "Stable",
+    "difficulty": 44,
+    "potential_traffic": 3119,
+    "parent_topic": "ai",
+    "category": "technology",
+    "opportunity_score": 71,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "ai tools list": {
+    "keyword": "ai tools list",
+    "search_volume": 22950,
+    "competition": "Low",
+    "competition_index": 42,
+    "cpc": 7.1,
+    "trend": "Stable",
+    "difficulty": 42,
+    "potential_traffic": 4590,
+    "parent_topic": "ai",
+    "category": "technology",
+    "opportunity_score": 80,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "ai tools for presentation": {
+    "keyword": "ai tools for presentation",
+    "search_volume": 15599,
+    "competition": "High",
+    "competition_index": 39,
+    "cpc": 9.4,
+    "trend": "Stable",
+    "difficulty": 31,
+    "potential_traffic": 3119,
+    "parent_topic": "ai",
+    "category": "technology",
+    "opportunity_score": 84,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "ai tools for research": {
+    "keyword": "ai tools for research",
+    "search_volume": 15599,
+    "competition": "Medium",
+    "competition_index": 34,
+    "cpc": 3.1,
+    "trend": "Stable",
+    "difficulty": 48,
+    "potential_traffic": 3119,
+    "parent_topic": "ai",
+    "category": "technology",
+    "opportunity_score": 67,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "ai tools for video editing": {
+    "keyword": "ai tools for video editing",
+    "search_volume": 11925,
+    "competition": "Low",
+    "competition_index": 32,
+    "cpc": 9.3,
+    "trend": "Stable",
+    "difficulty": 28,
+    "potential_traffic": 2385,
+    "parent_topic": "ai",
+    "category": "technology",
+    "opportunity_score": 83,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "ai tools for video creation": {
+    "keyword": "ai tools for video creation",
+    "search_volume": 11925,
+    "competition": "Medium",
+    "competition_index": 43,
+    "cpc": 0.6,
+    "trend": "Stable",
+    "difficulty": 51,
+    "potential_traffic": 2385,
+    "parent_topic": "ai",
+    "category": "technology",
+    "opportunity_score": 60,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "ai tools for image generation": {
+    "keyword": "ai tools for image generation",
+    "search_volume": 11925,
+    "competition": "High",
+    "competition_index": 45,
+    "cpc": 0.1,
+    "trend": "Stable",
+    "difficulty": 36,
+    "potential_traffic": 2385,
+    "parent_topic": "ai",
+    "category": "technology",
+    "opportunity_score": 75,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "freelancing": {
+    "keyword": "freelancing",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 81,
+    "cpc": 5.0,
+    "trend": "Stable",
+    "difficulty": 52,
+    "potential_traffic": 9000,
+    "parent_topic": "",
+    "category": "technology",
+    "opportunity_score": 93,
+    "tail_type": "Short-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "freelancing websites": {
+    "keyword": "freelancing websites",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 77,
+    "cpc": 5.2,
+    "trend": "Stable",
+    "difficulty": 54,
+    "potential_traffic": 9000,
+    "parent_topic": "freelancing",
+    "category": "technology",
+    "opportunity_score": 91,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "freelancing course": {
+    "keyword": "freelancing course",
+    "search_volume": 45000,
+    "competition": "High",
+    "competition_index": 64,
+    "cpc": 3.9,
+    "trend": "Stable",
+    "difficulty": 51,
+    "potential_traffic": 9000,
+    "parent_topic": "freelancing",
+    "category": "technology",
+    "opportunity_score": 94,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "freelancing meaning in urdu": {
+    "keyword": "freelancing meaning in urdu",
+    "search_volume": 15599,
+    "competition": "Medium",
+    "competition_index": 52,
+    "cpc": 4.4,
+    "trend": "Stable",
+    "difficulty": 31,
+    "potential_traffic": 3119,
+    "parent_topic": "freelancing",
+    "category": "technology",
+    "opportunity_score": 84,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "freelancing platforms": {
+    "keyword": "freelancing platforms",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 66,
+    "cpc": 6.6,
+    "trend": "Stable",
+    "difficulty": 48,
+    "potential_traffic": 9000,
+    "parent_topic": "freelancing",
+    "category": "technology",
+    "opportunity_score": 97,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "freelancing meaning": {
+    "keyword": "freelancing meaning",
+    "search_volume": 45000,
+    "competition": "High",
+    "competition_index": 70,
+    "cpc": 1.7,
+    "trend": "Stable",
+    "difficulty": 69,
+    "potential_traffic": 9000,
+    "parent_topic": "freelancing",
+    "category": "technology",
+    "opportunity_score": 76,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "freelancing course in urdu": {
+    "keyword": "freelancing course in urdu",
+    "search_volume": 15599,
+    "competition": "Low",
+    "competition_index": 27,
+    "cpc": 6.6,
+    "trend": "Stable",
+    "difficulty": 43,
+    "potential_traffic": 3119,
+    "parent_topic": "freelancing",
+    "category": "technology",
+    "opportunity_score": 72,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "freelancing jobs": {
+    "keyword": "freelancing jobs",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 55,
+    "cpc": 1.2,
+    "trend": "Stable",
+    "difficulty": 64,
+    "potential_traffic": 9000,
+    "parent_topic": "freelancing",
+    "category": "technology",
+    "opportunity_score": 81,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "freelancing in pakistan": {
+    "keyword": "freelancing in pakistan",
+    "search_volume": 22950,
+    "competition": "Low",
+    "competition_index": 37,
+    "cpc": 8.8,
+    "trend": "Stable",
+    "difficulty": 39,
+    "potential_traffic": 4590,
+    "parent_topic": "freelancing",
+    "category": "technology",
+    "opportunity_score": 83,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "freelancing websites in pakistan": {
+    "keyword": "freelancing websites in pakistan",
+    "search_volume": 15599,
+    "competition": "Medium",
+    "competition_index": 55,
+    "cpc": 9.0,
+    "trend": "Stable",
+    "difficulty": 37,
+    "potential_traffic": 3119,
+    "parent_topic": "freelancing",
+    "category": "technology",
+    "opportunity_score": 78,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "video editing": {
+    "keyword": "video editing",
+    "search_volume": 45000,
+    "competition": "Low",
+    "competition_index": 80,
+    "cpc": 0.7,
+    "trend": "Stable",
+    "difficulty": 59,
+    "potential_traffic": 9000,
+    "parent_topic": "video",
+    "category": "technology",
+    "opportunity_score": 86,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "video editing app": {
+    "keyword": "video editing app",
+    "search_volume": 22950,
+    "competition": "Low",
+    "competition_index": 38,
+    "cpc": 6.0,
+    "trend": "Stable",
+    "difficulty": 41,
+    "potential_traffic": 4590,
+    "parent_topic": "video",
+    "category": "technology",
+    "opportunity_score": 81,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "video editing software": {
+    "keyword": "video editing software",
+    "search_volume": 22950,
+    "competition": "Medium",
+    "competition_index": 44,
+    "cpc": 1.4,
+    "trend": "Stable",
+    "difficulty": 55,
+    "potential_traffic": 4590,
+    "parent_topic": "video",
+    "category": "technology",
+    "opportunity_score": 67,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "video editing course": {
+    "keyword": "video editing course",
+    "search_volume": 22950,
+    "competition": "Low",
+    "competition_index": 46,
+    "cpc": 9.6,
+    "trend": "Stable",
+    "difficulty": 47,
+    "potential_traffic": 4590,
+    "parent_topic": "video",
+    "category": "technology",
+    "opportunity_score": 75,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "video editing online": {
+    "keyword": "video editing online",
+    "search_volume": 22950,
+    "competition": "Medium",
+    "competition_index": 52,
+    "cpc": 8.4,
+    "trend": "Stable",
+    "difficulty": 35,
+    "potential_traffic": 4590,
+    "parent_topic": "video",
+    "category": "technology",
+    "opportunity_score": 87,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "video editing online free": {
+    "keyword": "video editing online free",
+    "search_volume": 15599,
+    "competition": "High",
+    "competition_index": 43,
+    "cpc": 3.4,
+    "trend": "Stable",
+    "difficulty": 31,
+    "potential_traffic": 3119,
+    "parent_topic": "video",
+    "category": "technology",
+    "opportunity_score": 84,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "video editing jobs": {
+    "keyword": "video editing jobs",
+    "search_volume": 22950,
+    "competition": "Low",
+    "competition_index": 34,
+    "cpc": 6.9,
+    "trend": "Stable",
+    "difficulty": 60,
+    "potential_traffic": 4590,
+    "parent_topic": "video",
+    "category": "technology",
+    "opportunity_score": 62,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "video editing software for pc": {
+    "keyword": "video editing software for pc",
+    "search_volume": 11925,
+    "competition": "Low",
+    "competition_index": 23,
+    "cpc": 1.6,
+    "trend": "Stable",
+    "difficulty": 51,
+    "potential_traffic": 2385,
+    "parent_topic": "video",
+    "category": "technology",
+    "opportunity_score": 60,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "video editing app free": {
+    "keyword": "video editing app free",
+    "search_volume": 15599,
+    "competition": "Low",
+    "competition_index": 38,
+    "cpc": 1.0,
+    "trend": "Stable",
+    "difficulty": 37,
+    "potential_traffic": 3119,
+    "parent_topic": "video",
+    "category": "technology",
+    "opportunity_score": 78,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "video editing app download": {
+    "keyword": "video editing app download",
+    "search_volume": 15599,
+    "competition": "Low",
+    "competition_index": 52,
+    "cpc": 4.8,
+    "trend": "Stable",
+    "difficulty": 55,
+    "potential_traffic": 3119,
+    "parent_topic": "video",
+    "category": "technology",
+    "opportunity_score": 60,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "weather": {
+    "keyword": "weather",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 71,
+    "cpc": 5.2,
+    "trend": "Stable",
+    "difficulty": 44,
+    "potential_traffic": 9000,
+    "parent_topic": "",
+    "category": "technology",
+    "opportunity_score": 101,
+    "tail_type": "Short-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "weather today": {
+    "keyword": "weather today",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 58,
+    "cpc": 2.9,
+    "trend": "Stable",
+    "difficulty": 51,
+    "potential_traffic": 9000,
+    "parent_topic": "weather",
+    "category": "technology",
+    "opportunity_score": 94,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "weather tomorrow": {
+    "keyword": "weather tomorrow",
+    "search_volume": 45000,
+    "competition": "Low",
+    "competition_index": 73,
+    "cpc": 8.9,
+    "trend": "Stable",
+    "difficulty": 51,
+    "potential_traffic": 9000,
+    "parent_topic": "weather",
+    "category": "technology",
+    "opportunity_score": 94,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "weather sialkot": {
+    "keyword": "weather sialkot",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 71,
+    "cpc": 4.3,
+    "trend": "Stable",
+    "difficulty": 55,
+    "potential_traffic": 9000,
+    "parent_topic": "weather",
+    "category": "technology",
+    "opportunity_score": 90,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "weather gujranwala": {
+    "keyword": "weather gujranwala",
+    "search_volume": 45000,
+    "competition": "Low",
+    "competition_index": 80,
+    "cpc": 5.2,
+    "trend": "Stable",
+    "difficulty": 64,
+    "potential_traffic": 9000,
+    "parent_topic": "weather",
+    "category": "technology",
+    "opportunity_score": 81,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "weather karachi": {
+    "keyword": "weather karachi",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 62,
+    "cpc": 0.7,
+    "trend": "Stable",
+    "difficulty": 49,
+    "potential_traffic": 9000,
+    "parent_topic": "weather",
+    "category": "technology",
+    "opportunity_score": 96,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "weather lahore": {
+    "keyword": "weather lahore",
+    "search_volume": 45000,
+    "competition": "Low",
+    "competition_index": 74,
+    "cpc": 1.9,
+    "trend": "Stable",
+    "difficulty": 51,
+    "potential_traffic": 9000,
+    "parent_topic": "weather",
+    "category": "technology",
+    "opportunity_score": 94,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "weather islamabad": {
+    "keyword": "weather islamabad",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 61,
+    "cpc": 1.0,
+    "trend": "Stable",
+    "difficulty": 42,
+    "potential_traffic": 9000,
+    "parent_topic": "weather",
+    "category": "technology",
+    "opportunity_score": 103,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "weather multan": {
+    "keyword": "weather multan",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 78,
+    "cpc": 4.1,
+    "trend": "Stable",
+    "difficulty": 43,
+    "potential_traffic": 9000,
+    "parent_topic": "weather",
+    "category": "technology",
+    "opportunity_score": 102,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "weather rawalpindi": {
+    "keyword": "weather rawalpindi",
+    "search_volume": 45000,
+    "competition": "Low",
+    "competition_index": 69,
+    "cpc": 5.1,
+    "trend": "Stable",
+    "difficulty": 63,
+    "potential_traffic": 9000,
+    "parent_topic": "weather",
+    "category": "technology",
+    "opportunity_score": 82,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "what is ai": {
+    "keyword": "what is ai",
+    "search_volume": 22950,
+    "competition": "High",
+    "competition_index": 61,
+    "cpc": 2.2,
+    "trend": "Stable",
+    "difficulty": 53,
+    "potential_traffic": 4590,
+    "parent_topic": "what",
+    "category": "technology",
+    "opportunity_score": 69,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "what is aids": {
+    "keyword": "what is aids",
+    "search_volume": 22950,
+    "competition": "High",
+    "competition_index": 57,
+    "cpc": 3.7,
+    "trend": "Stable",
+    "difficulty": 58,
+    "potential_traffic": 4590,
+    "parent_topic": "what",
+    "category": "technology",
+    "opportunity_score": 64,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "what is airbnb": {
+    "keyword": "what is airbnb",
+    "search_volume": 22950,
+    "competition": "High",
+    "competition_index": 42,
+    "cpc": 4.2,
+    "trend": "Stable",
+    "difficulty": 53,
+    "potential_traffic": 4590,
+    "parent_topic": "what",
+    "category": "technology",
+    "opportunity_score": 69,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "what is ai artificial intelligence": {
+    "keyword": "what is ai artificial intelligence",
+    "search_volume": 11925,
+    "competition": "Low",
+    "competition_index": 24,
+    "cpc": 0.1,
+    "trend": "Stable",
+    "difficulty": 26,
+    "potential_traffic": 2385,
+    "parent_topic": "what",
+    "category": "technology",
+    "opportunity_score": 85,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "what is air pollution": {
+    "keyword": "what is air pollution",
+    "search_volume": 15599,
+    "competition": "Low",
+    "competition_index": 42,
+    "cpc": 6.6,
+    "trend": "Stable",
+    "difficulty": 53,
+    "potential_traffic": 3119,
+    "parent_topic": "what",
+    "category": "technology",
+    "opportunity_score": 62,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "what is aids disease": {
+    "keyword": "what is aids disease",
+    "search_volume": 32999,
+    "competition": "High",
+    "competition_index": 52,
+    "cpc": 0.3,
+    "trend": "Stable",
+    "difficulty": 49,
+    "potential_traffic": 6599,
+    "parent_topic": "what",
+    "category": "health",
+    "opportunity_score": 83,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "what is ai agent": {
+    "keyword": "what is ai agent",
+    "search_volume": 15599,
+    "competition": "Medium",
+    "competition_index": 27,
+    "cpc": 8.1,
+    "trend": "Stable",
+    "difficulty": 38,
+    "potential_traffic": 3119,
+    "parent_topic": "what",
+    "category": "technology",
+    "opportunity_score": 77,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "what is air": {
+    "keyword": "what is air",
+    "search_volume": 22950,
+    "competition": "Medium",
+    "competition_index": 37,
+    "cpc": 3.6,
+    "trend": "Stable",
+    "difficulty": 47,
+    "potential_traffic": 4590,
+    "parent_topic": "what",
+    "category": "technology",
+    "opportunity_score": 75,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "what is ai automation": {
+    "keyword": "what is ai automation",
+    "search_volume": 15599,
+    "competition": "Medium",
+    "competition_index": 32,
+    "cpc": 4.3,
+    "trend": "Stable",
+    "difficulty": 30,
+    "potential_traffic": 3119,
+    "parent_topic": "what",
+    "category": "technology",
+    "opportunity_score": 85,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [
+          "Accessibility Links",
+          "Filters and Topics",
+          "Search Results"
+        ],
+        "h2": [],
+        "h3": [
+          "What Is AI Automation? - Artificial Intelligence",
+          "What is AI Automation? All You Need to Know",
+          "What is Intelligent Automation? | IBM"
+        ],
+        "h4": []
+      }
+    }
+  },
+  "what is ai in computer": {
+    "keyword": "what is ai in computer",
+    "search_volume": 11925,
+    "competition": "Medium",
+    "competition_index": 47,
+    "cpc": 8.0,
+    "trend": "Stable",
+    "difficulty": 35,
+    "potential_traffic": 2385,
+    "parent_topic": "what",
+    "category": "technology",
+    "opportunity_score": 76,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "gaming industry": {
+    "keyword": "gaming industry",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 59,
+    "cpc": 5.7,
+    "trend": "Stable",
+    "difficulty": 69,
+    "potential_traffic": 9000,
+    "parent_topic": "gaming",
+    "category": "technology",
+    "opportunity_score": 76,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "gaming industry worth": {
+    "keyword": "gaming industry worth",
+    "search_volume": 22950,
+    "competition": "High",
+    "competition_index": 41,
+    "cpc": 5.3,
+    "trend": "Stable",
+    "difficulty": 54,
+    "potential_traffic": 4590,
+    "parent_topic": "gaming",
+    "category": "technology",
+    "opportunity_score": 68,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "gaming industry in pakistan": {
+    "keyword": "gaming industry in pakistan",
+    "search_volume": 15599,
+    "competition": "Low",
+    "competition_index": 47,
+    "cpc": 9.5,
+    "trend": "Stable",
+    "difficulty": 52,
+    "potential_traffic": 3119,
+    "parent_topic": "gaming",
+    "category": "technology",
+    "opportunity_score": 63,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "gaming industry net worth": {
+    "keyword": "gaming industry net worth",
+    "search_volume": 15599,
+    "competition": "High",
+    "competition_index": 37,
+    "cpc": 1.2,
+    "trend": "Stable",
+    "difficulty": 49,
+    "potential_traffic": 3119,
+    "parent_topic": "gaming",
+    "category": "technology",
+    "opportunity_score": 66,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "gaming industry growth": {
+    "keyword": "gaming industry growth",
+    "search_volume": 22950,
+    "competition": "High",
+    "competition_index": 34,
+    "cpc": 5.6,
+    "trend": "Stable",
+    "difficulty": 37,
+    "potential_traffic": 4590,
+    "parent_topic": "gaming",
+    "category": "technology",
+    "opportunity_score": 85,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "gaming industry worth vs hollywood": {
+    "keyword": "gaming industry worth vs hollywood",
+    "search_volume": 11925,
+    "competition": "Medium",
+    "competition_index": 27,
+    "cpc": 4.3,
+    "trend": "Stable",
+    "difficulty": 48,
+    "potential_traffic": 2385,
+    "parent_topic": "gaming",
+    "category": "technology",
+    "opportunity_score": 63,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "gaming industry jobs": {
+    "keyword": "gaming industry jobs",
+    "search_volume": 22950,
+    "competition": "Low",
+    "competition_index": 54,
+    "cpc": 1.9,
+    "trend": "Stable",
+    "difficulty": 40,
+    "potential_traffic": 4590,
+    "parent_topic": "gaming",
+    "category": "technology",
+    "opportunity_score": 82,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "gaming industry in india": {
+    "keyword": "gaming industry in india",
+    "search_volume": 15599,
+    "competition": "High",
+    "competition_index": 41,
+    "cpc": 5.3,
+    "trend": "Stable",
+    "difficulty": 40,
+    "potential_traffic": 3119,
+    "parent_topic": "gaming",
+    "category": "technology",
+    "opportunity_score": 75,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "gaming industry news": {
+    "keyword": "gaming industry news",
+    "search_volume": 22950,
+    "competition": "Low",
+    "competition_index": 55,
+    "cpc": 3.4,
+    "trend": "Stable",
+    "difficulty": 55,
+    "potential_traffic": 4590,
+    "parent_topic": "gaming",
+    "category": "technology",
+    "opportunity_score": 67,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "gaming industry vs movie industry": {
+    "keyword": "gaming industry vs movie industry",
+    "search_volume": 11925,
+    "competition": "High",
+    "competition_index": 42,
+    "cpc": 2.8,
+    "trend": "Stable",
+    "difficulty": 53,
+    "potential_traffic": 2385,
+    "parent_topic": "gaming",
+    "category": "technology",
+    "opportunity_score": 58,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "gaming pc": {
+    "keyword": "gaming pc",
+    "search_volume": 45000,
+    "competition": "High",
+    "competition_index": 66,
+    "cpc": 7.0,
+    "trend": "Stable",
+    "difficulty": 42,
+    "potential_traffic": 9000,
+    "parent_topic": "gaming",
+    "category": "technology",
+    "opportunity_score": 103,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "gaming": {
+    "keyword": "gaming",
+    "search_volume": 45000,
+    "competition": "High",
+    "competition_index": 80,
+    "cpc": 2.7,
+    "trend": "Stable",
+    "difficulty": 69,
+    "potential_traffic": 9000,
+    "parent_topic": "",
+    "category": "technology",
+    "opportunity_score": 76,
+    "tail_type": "Short-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "gaming zone sialkot": {
+    "keyword": "gaming zone sialkot",
+    "search_volume": 22950,
+    "competition": "Medium",
+    "competition_index": 46,
+    "cpc": 9.4,
+    "trend": "Stable",
+    "difficulty": 35,
+    "potential_traffic": 4590,
+    "parent_topic": "gaming",
+    "category": "technology",
+    "opportunity_score": 87,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [
+          "Accessibility Links",
+          "Filters and Topics",
+          "Search Results"
+        ],
+        "h2": [],
+        "h3": [
+          "More places",
+          "Map",
+          "X Gaming Zone \u2013 #1 Gaming"
+        ],
+        "h4": []
+      }
+    }
+  },
+  "gaming zone gujranwala": {
+    "keyword": "gaming zone gujranwala",
+    "search_volume": 22950,
+    "competition": "High",
+    "competition_index": 53,
+    "cpc": 0.3,
+    "trend": "Stable",
+    "difficulty": 44,
+    "potential_traffic": 4590,
+    "parent_topic": "gaming",
+    "category": "technology",
+    "opportunity_score": 78,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "gaming mobile price in pakistan": {
+    "keyword": "gaming mobile price in pakistan",
+    "search_volume": 20025,
+    "competition": "Medium",
+    "competition_index": 31,
+    "cpc": 9.2,
+    "trend": "Stable",
+    "difficulty": 52,
+    "potential_traffic": 4005,
+    "parent_topic": "gaming",
+    "category": "shopping",
+    "opportunity_score": 68,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "gaming pc price in pakistan": {
+    "keyword": "gaming pc price in pakistan",
+    "search_volume": 20025,
+    "competition": "Medium",
+    "competition_index": 50,
+    "cpc": 7.1,
+    "trend": "Stable",
+    "difficulty": 51,
+    "potential_traffic": 4005,
+    "parent_topic": "gaming",
+    "category": "shopping",
+    "opportunity_score": 69,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "gaming chair": {
+    "keyword": "gaming chair",
+    "search_volume": 45000,
+    "competition": "Low",
+    "competition_index": 78,
+    "cpc": 7.8,
+    "trend": "Stable",
+    "difficulty": 50,
+    "potential_traffic": 9000,
+    "parent_topic": "gaming",
+    "category": "technology",
+    "opportunity_score": 95,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "gaming zone near me": {
+    "keyword": "gaming zone near me",
+    "search_volume": 15599,
+    "competition": "Medium",
+    "competition_index": 45,
+    "cpc": 9.9,
+    "trend": "Rising",
+    "difficulty": 56,
+    "potential_traffic": 3119,
+    "parent_topic": "gaming",
+    "category": "technology",
+    "opportunity_score": 59,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "gaming laptop": {
+    "keyword": "gaming laptop",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 63,
+    "cpc": 1.5,
+    "trend": "Stable",
+    "difficulty": 67,
+    "potential_traffic": 9000,
+    "parent_topic": "gaming",
+    "category": "technology",
+    "opportunity_score": 78,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "gaming beast": {
+    "keyword": "gaming beast",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 80,
+    "cpc": 8.6,
+    "trend": "Stable",
+    "difficulty": 58,
+    "potential_traffic": 9000,
+    "parent_topic": "gaming",
+    "category": "technology",
+    "opportunity_score": 87,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "artificial intelligence": {
+    "keyword": "artificial intelligence",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 85,
+    "cpc": 4.7,
+    "trend": "Stable",
+    "difficulty": 49,
+    "potential_traffic": 9000,
+    "parent_topic": "artificial",
+    "category": "technology",
+    "opportunity_score": 96,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "artificial intelligence course": {
+    "keyword": "artificial intelligence course",
+    "search_volume": 22950,
+    "competition": "Medium",
+    "competition_index": 61,
+    "cpc": 3.6,
+    "trend": "Stable",
+    "difficulty": 37,
+    "potential_traffic": 4590,
+    "parent_topic": "artificial",
+    "category": "technology",
+    "opportunity_score": 85,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "artificial intelligence meaning in urdu": {
+    "keyword": "artificial intelligence meaning in urdu",
+    "search_volume": 11925,
+    "competition": "Low",
+    "competition_index": 30,
+    "cpc": 4.1,
+    "trend": "Stable",
+    "difficulty": 26,
+    "potential_traffic": 2385,
+    "parent_topic": "artificial",
+    "category": "technology",
+    "opportunity_score": 85,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "artificial intelligence essay": {
+    "keyword": "artificial intelligence essay",
+    "search_volume": 22950,
+    "competition": "Medium",
+    "competition_index": 49,
+    "cpc": 2.8,
+    "trend": "Stable",
+    "difficulty": 49,
+    "potential_traffic": 4590,
+    "parent_topic": "artificial",
+    "category": "technology",
+    "opportunity_score": 73,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "artificial intelligence definition": {
+    "keyword": "artificial intelligence definition",
+    "search_volume": 22950,
+    "competition": "High",
+    "competition_index": 49,
+    "cpc": 4.4,
+    "trend": "Stable",
+    "difficulty": 55,
+    "potential_traffic": 4590,
+    "parent_topic": "artificial",
+    "category": "technology",
+    "opportunity_score": 67,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "artificial intelligence app": {
+    "keyword": "artificial intelligence app",
+    "search_volume": 22950,
+    "competition": "Medium",
+    "competition_index": 44,
+    "cpc": 0.0,
+    "trend": "Stable",
+    "difficulty": 31,
+    "potential_traffic": 4590,
+    "parent_topic": "artificial",
+    "category": "technology",
+    "opportunity_score": 91,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "artificial intelligence course in pakistan": {
+    "keyword": "artificial intelligence course in pakistan",
+    "search_volume": 11925,
+    "competition": "Medium",
+    "competition_index": 34,
+    "cpc": 7.4,
+    "trend": "Stable",
+    "difficulty": 29,
+    "potential_traffic": 2385,
+    "parent_topic": "artificial",
+    "category": "technology",
+    "opportunity_score": 82,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "artificial intelligence meaning": {
+    "keyword": "artificial intelligence meaning",
+    "search_volume": 22950,
+    "competition": "Low",
+    "competition_index": 60,
+    "cpc": 1.4,
+    "trend": "Stable",
+    "difficulty": 55,
+    "potential_traffic": 4590,
+    "parent_topic": "artificial",
+    "category": "technology",
+    "opportunity_score": 67,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "artificial intelligence in urdu": {
+    "keyword": "artificial intelligence in urdu",
+    "search_volume": 15599,
+    "competition": "Medium",
+    "competition_index": 45,
+    "cpc": 7.4,
+    "trend": "Stable",
+    "difficulty": 41,
+    "potential_traffic": 3119,
+    "parent_topic": "artificial",
+    "category": "technology",
+    "opportunity_score": 74,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [
+          "Accessibility Links",
+          "Filters and Topics",
+          "Search Results"
+        ],
+        "h2": [
+          "Translation Result",
+          "AI Overview"
+        ],
+        "h3": [
+          "What is AI? | Introduction to AI | #aikachilla #urdu #hindi",
+          "ARTIFICIAL INTELLIGENCE in Urdu - Cambridge Dictionary",
+          "Artificial Intelligence Meaning In Urdu - Dictionary"
+        ],
+        "h4": []
+      }
+    }
+  },
+  "artificial intelligence scope in pakistan": {
+    "keyword": "artificial intelligence scope in pakistan",
+    "search_volume": 11925,
+    "competition": "Low",
+    "competition_index": 27,
+    "cpc": 5.5,
+    "trend": "Stable",
+    "difficulty": 30,
+    "potential_traffic": 2385,
+    "parent_topic": "artificial",
+    "category": "technology",
+    "opportunity_score": 81,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "fashion": {
+    "keyword": "fashion",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 75,
+    "cpc": 4.4,
+    "trend": "Stable",
+    "difficulty": 66,
+    "potential_traffic": 9000,
+    "parent_topic": "",
+    "category": "technology",
+    "opportunity_score": 79,
+    "tail_type": "Short-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "fashion flare": {
+    "keyword": "fashion flare",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 73,
+    "cpc": 9.8,
+    "trend": "Stable",
+    "difficulty": 50,
+    "potential_traffic": 9000,
+    "parent_topic": "fashion",
+    "category": "technology",
+    "opportunity_score": 95,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "fashion designing": {
+    "keyword": "fashion designing",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 74,
+    "cpc": 2.8,
+    "trend": "Stable",
+    "difficulty": 60,
+    "potential_traffic": 9000,
+    "parent_topic": "fashion",
+    "category": "technology",
+    "opportunity_score": 85,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "fashion designing course": {
+    "keyword": "fashion designing course",
+    "search_volume": 22950,
+    "competition": "Low",
+    "competition_index": 45,
+    "cpc": 1.7,
+    "trend": "Stable",
+    "difficulty": 48,
+    "potential_traffic": 4590,
+    "parent_topic": "fashion",
+    "category": "technology",
+    "opportunity_score": 74,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "fashion show game": {
+    "keyword": "fashion show game",
+    "search_volume": 22950,
+    "competition": "Medium",
+    "competition_index": 61,
+    "cpc": 6.7,
+    "trend": "Stable",
+    "difficulty": 48,
+    "potential_traffic": 4590,
+    "parent_topic": "fashion",
+    "category": "technology",
+    "opportunity_score": 74,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "fashion designing course sialkot": {
+    "keyword": "fashion designing course sialkot",
+    "search_volume": 15599,
+    "competition": "Medium",
+    "competition_index": 45,
+    "cpc": 0.8,
+    "trend": "Stable",
+    "difficulty": 55,
+    "potential_traffic": 3119,
+    "parent_topic": "fashion",
+    "category": "technology",
+    "opportunity_score": 60,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "fashion designing course gujranwala": {
+    "keyword": "fashion designing course gujranwala",
+    "search_volume": 15599,
+    "competition": "Medium",
+    "competition_index": 41,
+    "cpc": 1.7,
+    "trend": "Stable",
+    "difficulty": 34,
+    "potential_traffic": 3119,
+    "parent_topic": "fashion",
+    "category": "technology",
+    "opportunity_score": 81,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "fashion show": {
+    "keyword": "fashion show",
+    "search_volume": 45000,
+    "competition": "Low",
+    "competition_index": 65,
+    "cpc": 2.5,
+    "trend": "Stable",
+    "difficulty": 67,
+    "potential_traffic": 9000,
+    "parent_topic": "fashion",
+    "category": "technology",
+    "opportunity_score": 78,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "fashion show dress up game": {
+    "keyword": "fashion show dress up game",
+    "search_volume": 11925,
+    "competition": "Low",
+    "competition_index": 44,
+    "cpc": 0.5,
+    "trend": "Stable",
+    "difficulty": 40,
+    "potential_traffic": 2385,
+    "parent_topic": "fashion",
+    "category": "technology",
+    "opportunity_score": 71,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "fashion nova": {
+    "keyword": "fashion nova",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 75,
+    "cpc": 1.2,
+    "trend": "Stable",
+    "difficulty": 54,
+    "potential_traffic": 9000,
+    "parent_topic": "fashion",
+    "category": "technology",
+    "opportunity_score": 91,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [
+          "Accessibility Links",
+          "Search Results",
+          "Ads"
+        ],
+        "h2": [
+          "Web Result with Site Links",
+          "Complementary Results"
+        ],
+        "h3": [
+          "Fashion Nova | Fashion Online For Women | Affordable Women's ...",
+          "Women's Dresses",
+          "Men"
+        ],
+        "h4": []
+      }
+    }
+  },
+  "mobile price in pakistan": {
+    "keyword": "mobile price in pakistan",
+    "search_volume": 25799,
+    "competition": "Low",
+    "competition_index": 55,
+    "cpc": 3.3,
+    "trend": "Stable",
+    "difficulty": 55,
+    "potential_traffic": 5159,
+    "parent_topic": "mobile",
+    "category": "shopping",
+    "opportunity_score": 70,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "mobile": {
+    "keyword": "mobile",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 59,
+    "cpc": 3.2,
+    "trend": "Stable",
+    "difficulty": 44,
+    "potential_traffic": 9000,
+    "parent_topic": "",
+    "category": "technology",
+    "opportunity_score": 101,
+    "tail_type": "Short-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "mobile phone": {
+    "keyword": "mobile phone",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 66,
+    "cpc": 0.2,
+    "trend": "Stable",
+    "difficulty": 44,
+    "potential_traffic": 9000,
+    "parent_topic": "mobile",
+    "category": "technology",
+    "opportunity_score": 101,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [
+          "Accessibility Links",
+          "Filters and Topics",
+          "Search Results"
+        ],
+        "h2": [],
+        "h3": [
+          "Refine results",
+          "Cell Phones: Shop the Best Smartphones Online",
+          "Mobile phone"
+        ],
+        "h4": []
+      }
+    }
+  },
+  "mobile number details": {
+    "keyword": "mobile number details",
+    "search_volume": 22950,
+    "competition": "Medium",
+    "competition_index": 54,
+    "cpc": 8.7,
+    "trend": "Stable",
+    "difficulty": 48,
+    "potential_traffic": 4590,
+    "parent_topic": "mobile",
+    "category": "technology",
+    "opportunity_score": 74,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "mobile app": {
+    "keyword": "mobile app",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 81,
+    "cpc": 8.5,
+    "trend": "Stable",
+    "difficulty": 67,
+    "potential_traffic": 9000,
+    "parent_topic": "mobile",
+    "category": "technology",
+    "opportunity_score": 78,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "mobile tracker": {
+    "keyword": "mobile tracker",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 69,
+    "cpc": 1.2,
+    "trend": "Stable",
+    "difficulty": 44,
+    "potential_traffic": 9000,
+    "parent_topic": "mobile",
+    "category": "technology",
+    "opportunity_score": 101,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "mobile wallpaper": {
+    "keyword": "mobile wallpaper",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 64,
+    "cpc": 3.2,
+    "trend": "Stable",
+    "difficulty": 54,
+    "potential_traffic": 9000,
+    "parent_topic": "mobile",
+    "category": "technology",
+    "opportunity_score": 91,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "mobile tracker free": {
+    "keyword": "mobile tracker free",
+    "search_volume": 22950,
+    "competition": "Medium",
+    "competition_index": 45,
+    "cpc": 6.2,
+    "trend": "Stable",
+    "difficulty": 33,
+    "potential_traffic": 4590,
+    "parent_topic": "mobile",
+    "category": "technology",
+    "opportunity_score": 89,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "mobile comparison": {
+    "keyword": "mobile comparison",
+    "search_volume": 45000,
+    "competition": "High",
+    "competition_index": 58,
+    "cpc": 4.7,
+    "trend": "Stable",
+    "difficulty": 49,
+    "potential_traffic": 9000,
+    "parent_topic": "mobile",
+    "category": "technology",
+    "opportunity_score": 96,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "mobile under 30000 in pakistan": {
+    "keyword": "mobile under 30000 in pakistan",
+    "search_volume": 11925,
+    "competition": "High",
+    "competition_index": 24,
+    "cpc": 1.9,
+    "trend": "Stable",
+    "difficulty": 34,
+    "potential_traffic": 2385,
+    "parent_topic": "mobile",
+    "category": "technology",
+    "opportunity_score": 77,
+    "tail_type": "Long-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "bagallery": {
+    "keyword": "bagallery",
+    "search_volume": 45000,
+    "competition": "Low",
+    "competition_index": 80,
+    "cpc": 4.7,
+    "trend": "Stable",
+    "difficulty": 59,
+    "potential_traffic": 9000,
+    "parent_topic": "",
+    "category": "technology",
+    "opportunity_score": 86,
+    "tail_type": "Short-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "bags": {
+    "keyword": "bags",
+    "search_volume": 45000,
+    "competition": "High",
+    "competition_index": 66,
+    "cpc": 1.3,
+    "trend": "Stable",
+    "difficulty": 65,
+    "potential_traffic": 9000,
+    "parent_topic": "",
+    "category": "technology",
+    "opportunity_score": 80,
+    "tail_type": "Short-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "baggy jeans": {
+    "keyword": "baggy jeans",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 74,
+    "cpc": 8.3,
+    "trend": "Stable",
+    "difficulty": 45,
+    "potential_traffic": 9000,
+    "parent_topic": "baggy",
+    "category": "technology",
+    "opportunity_score": 100,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "bagh restaurant": {
+    "keyword": "bagh restaurant",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 85,
+    "cpc": 3.1,
+    "trend": "Stable",
+    "difficulty": 43,
+    "potential_traffic": 9000,
+    "parent_topic": "bagh",
+    "category": "technology",
+    "opportunity_score": 102,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "bag x": {
+    "keyword": "bag x",
+    "search_volume": 45000,
+    "competition": "Low",
+    "competition_index": 61,
+    "cpc": 5.0,
+    "trend": "Stable",
+    "difficulty": 42,
+    "potential_traffic": 9000,
+    "parent_topic": "bag",
+    "category": "technology",
+    "opportunity_score": 103,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "baggy pants": {
+    "keyword": "baggy pants",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 72,
+    "cpc": 0.4,
+    "trend": "Stable",
+    "difficulty": 66,
+    "potential_traffic": 9000,
+    "parent_topic": "baggy",
+    "category": "technology",
+    "opportunity_score": 79,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "bags for girls": {
+    "keyword": "bags for girls",
+    "search_volume": 22950,
+    "competition": "Low",
+    "competition_index": 55,
+    "cpc": 4.9,
+    "trend": "Stable",
+    "difficulty": 60,
+    "potential_traffic": 4590,
+    "parent_topic": "bags",
+    "category": "technology",
+    "opportunity_score": 62,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "baghdad": {
+    "keyword": "baghdad",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 71,
+    "cpc": 9.9,
+    "trend": "Stable",
+    "difficulty": 51,
+    "potential_traffic": 9000,
+    "parent_topic": "",
+    "category": "technology",
+    "opportunity_score": 94,
+    "tail_type": "Short-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "bags and bows": {
+    "keyword": "bags and bows",
+    "search_volume": 22950,
+    "competition": "Medium",
+    "competition_index": 53,
+    "cpc": 2.7,
+    "trend": "Stable",
+    "difficulty": 58,
+    "potential_traffic": 4590,
+    "parent_topic": "bags",
+    "category": "technology",
+    "opportunity_score": 64,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  },
+  "bagh weather": {
+    "keyword": "bagh weather",
+    "search_volume": 45000,
+    "competition": "Medium",
+    "competition_index": 63,
+    "cpc": 8.6,
+    "trend": "Stable",
+    "difficulty": 58,
+    "potential_traffic": 9000,
+    "parent_topic": "bagh",
+    "category": "technology",
+    "opportunity_score": 87,
+    "tail_type": "Mid-tail",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0,
+      "meta_data": {
+        "meta_description": [],
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": []
+      }
+    }
+  }
+}
